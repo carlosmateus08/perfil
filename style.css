@@ -17,6 +17,10 @@ header {
 
 }
 
+img { 
+    max-width: 350px;
+}
+
 main {
     min-width: 300px;
     max-width: 800px;
