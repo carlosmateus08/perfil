@@ -17,8 +17,9 @@ header {
 
 }
 
-img { 
-    max-width: 350px;
+img.principal { 
+    max-width: 150px;
+    margin: 0px 325px;
 }
 
 main {
